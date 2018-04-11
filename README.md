@@ -1,4 +1,4 @@
-# Kaggle-Titanic-using-tensorflow
+# Titanic-using-tensorflow
 jupyter notebook for kaggle Titanic challenge using tensorflow
 
 link to the dataset and the problem challenge:
